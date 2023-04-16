@@ -1,2 +1,5 @@
 # Calendario
-Calendário que checa se uma data é valida ou não, e te diz o dia da semana.
+
+Sistemas simples de calendário, digite uma data e ele checará se a data é valida ou não.
+
+O código também leva em consideração anos bissextos.
