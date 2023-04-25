@@ -11,7 +11,7 @@ O sistema é um calendário simples que checka datas.
 
 Digite uma data aleatória, ele printara a data respectivamente e também se aquela data é valida ou não, podendo ser testado até com números negativos.
 
-O sistema também detecta anos bissextos, consequentemente ele leva em consideração as variações do dia de Fevereiro.
+O sistema também detecta anos bissextos, consequentemente ele leva em consideração as variações dos dias de Fevereiro.
 
 ```py
 29/2/2000 - Ano Bissexto & Data válida
