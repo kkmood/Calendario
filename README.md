@@ -13,11 +13,11 @@ Digite uma data aleatória, ele printara a data respectivamente e também se aqu
 
 O sistema também detecta anos bissextos, consequentemente ele leva em consideração as variações do dia de Fevereiro.
 
-```java
-29/2/2000 - Ano Bissexto & Válido
+```py
+29/2/2000 - Ano Bissexto & Data válida
 ```
-```java
-29/2/1999 - Ano Inválido
+```py
+29/2/1999 - Data inválida
 ```
 
 ## Cuidados & Atualizações
