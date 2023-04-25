@@ -9,7 +9,7 @@
 
 O sistema é um calendário simples que checka datas.
 
-Digite uma data aleatória, ele printara a data respectivamente e também se aquela data é valida ou não, podendo ser testado até com números negativos.
+Digite uma data aleatória, ele printará a data respectivamente e também se aquela data é valida ou não, podendo ser testado até com números negativos.
 
 O sistema também detecta anos bissextos, consequentemente ele leva em consideração as variações dos dias de Fevereiro.
 
