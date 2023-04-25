@@ -7,7 +7,7 @@
   
 ## Descrição
 
-O sistema é um calendário simples que checka datas.
+O sistema é um calendário simples que checa datas.
 
 Digite uma data aleatória, ele printará a data respectivamente e também se aquela data é valida ou não, podendo ser testado até com números negativos.
 
